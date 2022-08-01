@@ -1,0 +1,12 @@
+{
+  "name": "finance-parttime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ytftianwen/finance-parttime.git",
+  "author": "ytftianwen@gmail.com <ytftianwen@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "xlsx": "^0.18.5"
+  }
+}
