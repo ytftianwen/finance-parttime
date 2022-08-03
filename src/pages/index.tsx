@@ -54,7 +54,7 @@ function Pages(props: { handleSuccess: () => void }) {
           }
         >
           <Button
-            style={{ width: 267 }}
+            style={{ width: 290 }}
             htmlType="button"
             block
             icon={<UploadOutlined />}
